@@ -1,0 +1,16 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    margin: auto;
+    color:red;
+    background-color: black;
+    display: block;
+
+    align-items: center;
+    
+    
+}
+h1 {
+    
+    color: violet;
+}
